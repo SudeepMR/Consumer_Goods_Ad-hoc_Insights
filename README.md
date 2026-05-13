@@ -21,7 +21,7 @@ The project involved:
 
 Below is the cover slide of the business presentation prepared for this project, summarizing the SQL analysis, Power BI visualizations, and key business insights.
 
-![Project Presentation Cover](Presentation/ppt_cover.png)
+![Project Presentation Cover]([Presentation/ppt_cover.png](https://github.com/SudeepMR/Consumer_Goods_Ad-hoc_Insights/blob/97e2ee951f7a81d8cdd430d32890755ebbf80e41/Presentation/ppt_cover.PNG))
 
 ### Presentation Includes
 - Business problem statements
