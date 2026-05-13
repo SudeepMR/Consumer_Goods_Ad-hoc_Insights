@@ -1,7 +1,5 @@
 # Consumer Goods Business Insights & Sales Analytics
-This is a Data Analytics project I have done using SQL as part of Codebasics SQL Project Challenge[link](https://codebasics.io/challenge/codebasics-resume-project-challenge).
-
-Challenge: [link](https://codebasics.io/challenge/codebasics-resume-project-challenge)
+This is a Data Analytics project I have done using SQL as part of Codebasics SQL Project [Challenge](https://codebasics.io/challenge/codebasics-resume-project-challenge).
 
 ## Project Overview
 
