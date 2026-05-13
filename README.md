@@ -1,8 +1,7 @@
 # Consumer Goods Business Insights & Sales Analytics
-This is a Data Analytics project I have done using SQL as part of Codebasics SQL Project Challenge.
+This is a Data Analytics project I have done using SQL as part of Codebasics SQL Project Challenge[link](https://codebasics.io/challenge/codebasics-resume-project-challenge).
 
 Challenge: [link](https://codebasics.io/challenge/codebasics-resume-project-challenge)
-linkedin Presentation: [link](https://www.linkedin.com/posts/mrsudeep_codebasicsresumeprojectchallenge-codebasicsresumeprojectchallenge-activity-7038854186423242752-mthb?utm_source=share&utm_medium=member_desktop)
 
 ## Project Overview
 
@@ -184,21 +183,7 @@ This project was also presented on LinkedIn with an audio walkthrough explaining
 - Power BI visualizations
 - Key insights and recommendations
 
-🔗 LinkedIn Post: [Add Your LinkedIn Post Link Here]
-
----
-
-## Repository Structure
-
-```text
-Consumer_Goods_Insights/
-│
-├── SQL_Queries/
-├── PowerBI_Visuals/
-├── Presentation/
-├── Dataset/
-└── README.md
-```
+🔗 LinkedIn Post: [https://www.linkedin.com/posts/mrsudeep_codebasicsresumeprojectchallenge-codebasicsresumeprojectchallenge-activity-7038854186423242752-mthb?utm_source=share&utm_medium=member_desktop]
 
 ---
 
@@ -216,10 +201,3 @@ Consumer_Goods_Insights/
 This project demonstrates the use of SQL, Power BI, and Excel to solve real-world business problems through data analysis, KPI monitoring, and visualization.
 
 The analysis provided meaningful insights into sales performance, customer behavior, product growth, and operational trends to support strategic decision-making.
-
-/dashboard_screenshots
-
-## Dashboard Preview
-
-### Sales Overview Dashboard
-
