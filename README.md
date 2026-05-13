@@ -1,5 +1,5 @@
 # Consumer Goods Business Insights & Sales Analytics
-This is a Data Analytics project I have done using SQL as part of Codebasics SQL Project [Challenge](https://codebasics.io/challenge/codebasics-resume-project-challenge).
+This is a Data Analytics project I have done using SQL and Power BI as part of Codebasics SQL Project Challenge.
 
 ## Project Overview
 
@@ -21,7 +21,7 @@ The project involved:
 
 Below is the cover slide of the business presentation prepared for this project, summarizing the SQL analysis, Power BI visualizations, and key business insights.
 
-![Project Presentation Cover]([Presentation/ppt_cover.png](https://github.com/SudeepMR/Consumer_Goods_Ad-hoc_Insights/blob/97e2ee951f7a81d8cdd430d32890755ebbf80e41/Presentation/ppt_cover.PNG))
+![Project Presentation Cover](https://github.com/SudeepMR/Consumer_Goods_Ad-hoc_Insights/blob/97e2ee951f7a81d8cdd430d32890755ebbf80e41/Presentation/ppt_cover.PNG)
 
 ### Presentation Includes
 - Business problem statements
@@ -29,6 +29,7 @@ Below is the cover slide of the business presentation prepared for this project,
 - KPI reporting
 - Power BI visualizations
 - Key insights and recommendations
+- Data Storytelling
 
 📄 Full PPT: [View Presentation](https://github.com/SudeepMR/Consumer_Goods_Ad-hoc_Insights/blob/5b8bfd433c5f8f78f8ef210ad6cdfac0f4b49dd4/Presentation/Consumer_Goods_Ad-hoc_Insights.pdf)
 
@@ -118,6 +119,10 @@ The dataset was cleaned and validated before analysis to ensure consistency and 
 ### 9. Product Performance Analysis
 - Identified top-performing products by division based on total sold quantity
 
+### 10. Top Products Analysis
+- Identified the top 3 products in each division with the highest total sold quantity during fiscal year 2021
+- Performed product ranking analysis using SQL ranking functions and sales aggregation techniques
+- Evaluated division-wise product performance to identify high-demand products and sales leaders
 ---
 
 ## Project Workflow
@@ -181,7 +186,7 @@ This project was also presented on LinkedIn with an audio walkthrough explaining
 - Power BI visualizations
 - Key insights and recommendations
 
-🔗 LinkedIn Post: [https://www.linkedin.com/posts/mrsudeep_codebasicsresumeprojectchallenge-codebasicsresumeprojectchallenge-activity-7038854186423242752-mthb?utm_source=share&utm_medium=member_desktop]
+🔗 [LinkedIn Post](https://www.linkedin.com/posts/mrsudeep_codebasicsresumeprojectchallenge-codebasicsresumeprojectchallenge-activity-7038854186423242752-mthb?utm_source=share&utm_medium=member_desktop)
 
 ---
 
