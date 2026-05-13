@@ -30,7 +30,7 @@ Below is the cover slide of the business presentation prepared for this project,
 - Power BI visualizations
 - Key insights and recommendations
 
-📄 Full PPT: [View Presentation](Presentation/Consumer_Goods_Insights_Presentation.pdf)
+📄 Full PPT: [View Presentation](https://github.com/SudeepMR/Consumer_Goods_Ad-hoc_Insights/blob/5b8bfd433c5f8f78f8ef210ad6cdfac0f4b49dd4/Presentation/Consumer_Goods_Ad-hoc_Insights.pdf)
 
 ---
 
